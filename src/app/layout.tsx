@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Matoshri Hotel",
+  title: "Matoshri Room Services",
   description: "Discover the best food and Rooms here",
 };
 
